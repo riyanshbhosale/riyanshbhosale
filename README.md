@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/riyanshbhosale">
-  <img alt="riyansh@riyanshbhosale — neofetch" src="./card.svg" width="860">
+  <img alt="riyansh@riyanshbhosale — neofetch" src="./profile.svg" width="860">
 </a>
 
 </div>
